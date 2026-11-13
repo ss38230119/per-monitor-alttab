@@ -18,7 +18,7 @@ A lightweight GNOME Shell extension that restricts the native window switcher (`
 
 ### Option 1: GNOME Extensions Website / Extension Manager (Recommended)
 
-1. Visit the extension page on [extensions.gnome.org](https://extensions.gnome.org/) and toggle the switch to **ON**, or search for **Per-Monitor Alt-Tab** in the **Extension Manager** desktop app (`gnome-shell-extension-manager`).
+1. Visit the [extension page on extensions.gnome.org](https://extensions.gnome.org/extension/11752/per-monitor-alt-tab/) and toggle the switch to **ON**, or search for **Per-Monitor Alt-Tab** in the **Extension Manager** desktop app (`gnome-shell-extension-manager`).
 
 ### Option 2: Build and Install from Source
 
