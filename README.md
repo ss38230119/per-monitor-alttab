@@ -70,4 +70,4 @@ gsettings reset org.gnome.desktop.wm.keybindings switch-windows-backward
 
 ## License
 
-This project is licensed under the **GPL-2.0-or-later** license. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the **GPL-2.0-or-later** license. See the [LICENSE](LICENSE) file for details.
