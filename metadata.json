@@ -1,5 +1,4 @@
 {
-  "version": 1,
   "uuid": "per-monitor-alttab@ss38230119.github.io",
   "name": "Per-Monitor Alt-Tab",
   "description": "Filter and display the native Alt-Tab window switcher on the monitor with the mouse pointer",
